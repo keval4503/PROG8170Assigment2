@@ -1,0 +1,8 @@
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\bin\Debug\temperatureConversion.exe.config
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\bin\Debug\temperatureConversion.exe
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\bin\Debug\temperatureConversion.pdb
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\obj\Debug\temperatureConversion.csproj.AssemblyReference.cache
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\obj\Debug\temperatureConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\obj\Debug\temperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\obj\Debug\temperatureConversion.exe
+C:\Users\keval\OneDrive\Desktop\sem 2\Prog8170\temperatureConversion\temperatureConversion\obj\Debug\temperatureConversion.pdb
