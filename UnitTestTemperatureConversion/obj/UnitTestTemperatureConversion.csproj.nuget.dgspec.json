@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\UnitTestTemperatureConversion\\UnitTestTemperatureConversion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\temperatureConversion\\temperatureConversion.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\temperatureConversion\\temperatureConversion.csproj",
+        "projectName": "temperatureConversion",
+        "projectPath": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\temperatureConversion\\temperatureConversion.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\UnitTestTemperatureConversion\\UnitTestTemperatureConversion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\UnitTestTemperatureConversion\\UnitTestTemperatureConversion.csproj",
+        "projectName": "UnitTestTemperatureConversion",
+        "projectPath": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\UnitTestTemperatureConversion\\UnitTestTemperatureConversion.csproj",
+        "packagesPath": "C:\\Users\\keval\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\UnitTestTemperatureConversion\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\keval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\temperatureConversion\\temperatureConversion.csproj": {
+                "projectPath": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\temperatureConversion\\temperatureConversion.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.15.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

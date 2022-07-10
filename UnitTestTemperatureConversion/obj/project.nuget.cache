@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0ZAvSiHphValml68axnLFmeQP7WOyDZojGBf3Rw/hFp201/rQjcAPXPeUYxXM7Xec8fqHYxdWK36CiqFPrKtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keval\\OneDrive\\Desktop\\sem 2\\Prog8170\\temperatureConversion\\UnitTestTemperatureConversion\\UnitTestTemperatureConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keval\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.console\\3.15.2\\nunit.console.3.15.2.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.consolerunner\\3.15.2\\nunit.consolerunner.3.15.2.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\keval\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
